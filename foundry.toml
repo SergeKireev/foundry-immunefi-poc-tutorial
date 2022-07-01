@@ -3,4 +3,7 @@ src = 'src'
 out = 'out'
 libs = ['lib']
 
-# See more config options https://github.com/foundry-rs/foundry/tree/master/config
+chain_id = 1
+eth_rpc_url = 'https://eth-mainnet.alchemyapi.io/v2/kqr7bxWXkRzL2XNWiTnFIF88qvjmKTQp'
+block_number = 14812830
+etherscan_api_key = 'R872ZSA5T6SSGZCQHXWPCBEKHR246P1E7T'
